@@ -1,2 +1,2 @@
 ## BOOTCAMP GO 
-### Práctica 1 - GIT
+### Práctica 1 - GIT y GITHUB
